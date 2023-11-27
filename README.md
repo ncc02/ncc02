@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hi there. I am Cuong Nguyen 👋 . Welcome to my Profile!!!
 
 <div align="center">
 <img hight="120" width="280" alt="GIF" align="center" src="./hi.gif">
@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I am a coding enthusiast from Vietnam.
+### - I am a man coding enthusiast from Vietnam.
 
 <img hight="400" width="500" alt="GIF" align="right" src="./supersayan.gif">
 
