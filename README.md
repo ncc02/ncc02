@@ -6,8 +6,6 @@
 
 </br>
 </br>
-</br>
-
 
 # About ME 💬 :
 
@@ -29,15 +27,8 @@
   - Flask
 
 
-- ✨ Data Structures & Algorithms
-  - Nearest neighbor
-  - Convex hull
-  - Greedy best-first search
-  - A* search
-  - Minimax
-  - Linear programming
-  - Simplex method
-  - ...
+- ✨ Ai Algorithms
+  - Nearest neighbor, Convex hull, Greedy best-first search, A* search, Minimax, Linear programming, Simplex method, AHP, SVD, ...
 
 ### - Hobbies : 
 - ✨ Competitive programing
