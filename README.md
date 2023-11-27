@@ -10,7 +10,7 @@
 # About ME 💬 :
 
 ### - I am a man coding enthusiast from Vietnam.
-
+</br>
 <img hight="400" width="500" alt="GIF" align="right" src="./supersayan.gif">
 
 ### - Skill jobs :
@@ -21,7 +21,7 @@
   - Recommendation Systems
 
 
-- ✨ Python Backend Developer
+- ✨ Python Backend:
   - Django
   - Django Rest Framework
   - Flask
