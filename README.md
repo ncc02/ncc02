@@ -1,7 +1,7 @@
 # Hello there 👋
 
 <div align="center">
-<img hight="30" width="70" alt="GIF" align="center" src="./hi.gif">
+<img hight="90" width="210" alt="GIF" align="center" src="./hi.gif">
 </div>
 
 </br>
@@ -16,9 +16,26 @@
 <img hight="400" width="500" alt="GIF" align="right" src="./supersayan.gif">
 
 ### - Skill jobs :
-- ✨ Artificial Intelligence (NLP, Computer Vision, Time Series, Recommendation Systems, ...)
-- ✨ Python Backend Developer (Django, Django Rest Framework, Flask, ...)
+- ✨ Artificial Intelligence:
+  - NLP
+  - Computer Vision
+  - Time Series
+  - Recommendation Systems
+  ...
+- ✨ Python Backend Developer
+  - Django
+  - Django Rest Framework
+  - Flask
+  ...
 - ✨ Data Structures & Algorithms
+  - Nearest neighbor
+  - Convex hull
+  - Greedy best-first search
+  - A* search
+  - Minimax
+  - Linear programming
+  - Simplex method
+  ...
 
 ### - Hobbies : 
 - ✨ Competitive programing
