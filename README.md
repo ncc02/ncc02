@@ -1,7 +1,7 @@
 # Hello there 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="./hi.gif">
+<img hight="30" width="70" alt="GIF" align="center" src="./hi.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - I am a coding enthusiast from Vietnam.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="./supersayan.gif">
 
 ### - Skill jobs :
 - ✨ Artificial Intelligence (NLP, Computer Vision, Time Series, Recommendation Systems, ...)
@@ -42,7 +42,6 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
@@ -58,7 +57,6 @@
 
 
 
-# Contact Me :
-<a href="https://www.facebook.com/cuongtk2002" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" alt="Cuong Nguyen" height="30" /></a>
+# Contact Me : <a href="https://www.facebook.com/cuongtk2002" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" alt="Cuong Nguyen" height="30" /></a>
 
 *************
