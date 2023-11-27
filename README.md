@@ -1,7 +1,7 @@
 # Hello there 👋
 
 <div align="center">
-<img hight="90" width="210" alt="GIF" align="center" src="./hi.gif">
+<img hight="120" width="280" alt="GIF" align="center" src="./hi.gif">
 </div>
 
 </br>
@@ -21,12 +21,14 @@
   - Computer Vision
   - Time Series
   - Recommendation Systems
-  ...
+
+
 - ✨ Python Backend Developer
   - Django
   - Django Rest Framework
   - Flask
-  ...
+
+
 - ✨ Data Structures & Algorithms
   - Nearest neighbor
   - Convex hull
@@ -35,7 +37,7 @@
   - Minimax
   - Linear programming
   - Simplex method
-  ...
+  - ...
 
 ### - Hobbies : 
 - ✨ Competitive programing
