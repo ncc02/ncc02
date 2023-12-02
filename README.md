@@ -25,6 +25,7 @@
   - Django
   - Django Rest Framework
   - Flask
+  - FastAPI
 
 
 - ✨ Ai Algorithms
